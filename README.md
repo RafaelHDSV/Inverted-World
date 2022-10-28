@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://inverted-world-rafael.netlify.app]
+- Live Site URL: https://inverted-world-rafael.netlify.app
 
 ## My process
 
