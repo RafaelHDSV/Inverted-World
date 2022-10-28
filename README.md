@@ -27,14 +27,10 @@ Users should be able to:
   - Desktop
   
     ![](images/desktop.png)
-    
-  - Mobile
-  
-    ![](images/mobile.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://inverted-world-rafael.netlify.app]
 
 ## My process
 
