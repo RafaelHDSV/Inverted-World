@@ -2,6 +2,8 @@
 
 Page with theme switcher using HTML, CSS and JavaScript, in addition to integrating a registration form with a Firebase database.
 
+![](images/main.png)
+
 ## Table of contents
 
 - [Overview](#overview)
